@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>NVL-JS-P8a</title>
+  </head>
+  <body>
+      <script type="text/javascript" >
+        var oneToSix=[[1,2],[3,4],[5,6]];
+        //Longitud del array
+           alert(oneToSix.length);  
+         //Longitud de cada uno de los elementos
+           alert(oneToSix[0].length);
+           alert(oneToSix[1].length);
+           alert(oneToSix[2].length);
+        // Valor del tercer elemento en la lista de arrays
+           alert(oneToSix[2]); 
+        // Valor del segundo elemento dentro del tercer elemento
+           alert(oneToSix[2][1]);                         
+    </script>
+  </body>
+</html>
+         
+  
